@@ -1,4 +1,6 @@
 trololo my first blog post
 
+-----
 title: "my title"
-date: 15-08-2020
+date: 2020-08-15
+-----
